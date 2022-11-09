@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Pearson Test Automation Suite" duration-ms="13459" started-at="2022-11-09T13:17:00 GMT" finished-at="2022-11-09T13:17:13 GMT">
+    <groups>
+    </groups>
+    <test name="Pearson Test Cases" duration-ms="13459" started-at="2022-11-09T13:17:00 GMT" finished-at="2022-11-09T13:17:13 GMT">
+      <class name="com.crm.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.crm.qa.testcases.HomePageTest@31f924f5]" name="startTest" is-config="true" duration-ms="96" started-at="2022-11-09T13:17:00 GMT" finished-at="2022-11-09T13:17:00 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="homeSetup()[pri:0, instance:com.crm.qa.testcases.HomePageTest@31f924f5]" name="homeSetup" is-config="true" duration-ms="12681" started-at="2022-11-09T13:17:00 GMT" finished-at="2022-11-09T13:17:13 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeSetup -->
+        <test-method status="PASS" signature="verifyHomePageTest()[pri:0, instance:com.crm.qa.testcases.HomePageTest@31f924f5]" name="verifyHomePageTest" duration-ms="65" started-at="2022-11-09T13:17:13 GMT" finished-at="2022-11-09T13:17:13 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@31f924f5]" name="tearDown" is-config="true" duration-ms="695" started-at="2022-11-09T13:17:13 GMT" finished-at="2022-11-09T13:17:13 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.crm.qa.testcases.HomePageTest@31f924f5]" name="endTest" is-config="true" duration-ms="204" started-at="2022-11-09T13:17:13 GMT" finished-at="2022-11-09T13:17:14 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.crm.qa.testcases.HomePageTest -->
+    </test> <!-- Pearson Test Cases -->
+  </suite> <!-- Pearson Test Automation Suite -->
+</testng-results>
